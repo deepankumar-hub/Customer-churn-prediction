@@ -26,7 +26,7 @@ Identified key features influencing churn (e.g., contract type, tenure, monthly 
 
 Trained multiple models including DecisionTree, Random Forest, and XGBoost.
 
-Used GridSearchCV for hyperparameter tuning to optimize model performance.
+Used RandomizedSearchCV for hyperparameter tuning to optimize model performance.
 
 ###  Evaluation Metrics:
 
