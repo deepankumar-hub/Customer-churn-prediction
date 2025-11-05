@@ -33,3 +33,10 @@ Used GridSearchCV for hyperparameter tuning to optimize model performance.
 Accuracy, Precision, Recall, F1-Score were used to measure performance.
 
 Confusion Matrix were included for model interpretation.
+
+### Results
+
+The XGBoost Classifier achieved the best performance with an Accuracy -  0.78
+
+
+
